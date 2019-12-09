@@ -1,6 +1,6 @@
 {
-  "name": "btccom/bitwasp-bitcoin-bch-addon",
-  "homepage": "https://github.com/btccom/bitwasp-bitcoin-bch-addon",
+  "name": "olegabr/bitwasp-bitcoin-bch-addon",
+  "homepage": "https://github.com/olegabr/bitwasp-bitcoin-bch-addon",
   "type": "library",
   "description": "Bridge to bitwasp/bitcoin for bch.",
   "keywords": ["bcash", "bch", "bitcoin cash", "cashaddr"],
@@ -8,11 +8,14 @@
   "authors": [
     {
       "name": "btccom"
+    },
+    {
+      "name": "olegabr"
     }
   ],
   "support": {
-    "issues": "https://github.com/btccom/bitwasp-bitcoin-bch-addon/issues",
-    "source": "https://github.com/btccom/bitwasp-bitcoin-bch-addon"
+    "issues": "https://github.com/olegabr/bitwasp-bitcoin-bch-addon/issues",
+    "source": "https://github.com/olegabr/bitwasp-bitcoin-bch-addon"
   },
   "autoload": {
     "psr-4": {
